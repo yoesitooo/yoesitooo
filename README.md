@@ -25,7 +25,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yoesitooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Estadisticas de yoesitooo" />
     <br/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoesitooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Lenguajes Top" />
-</div>div>
+</div>
 
 <br/>
 
@@ -44,15 +44,15 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=yoesitooo&color=8b5cf6&style=flat-square&label=Vistas+del+perfil" alt="Profile views" />
-</div>div>
+</div>di
 
 </p></h3>
   <a href="https://linkedin.com/in/tu-perfil">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedI
   </a>a>
   </p>div>
 
   <br/><br/>
 
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=yoesitooo&color=8b5cf6&style=flat-square&label=Vistas+del+perfil" alt="Profile vie
+    <img sr
