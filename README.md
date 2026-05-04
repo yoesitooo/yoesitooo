@@ -22,11 +22,10 @@
 ## 📈 Mis Estadísticas en GitHub
 
 <div align="center">
-  <!-- Usando una instancia alternativa más estable de github-readme-stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yoesitooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Estadísticas de yoesitooo" />
   <br/><br/>
-  <!-- Racha de contribuciones (Streak Stats) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoesitooo&theme=tokyonight&hide_border=true&background=0f172a" alt="Racha de contribuciones" />
+  <!-- Usando el nuevo dominio recomendado para Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=yoesitooo&theme=tokyonight&hide_border=true&background=0f172a" alt="Racha de contribuciones" />
   <br/><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yoesitooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Lenguajes Top" />
 </div>
@@ -36,10 +35,10 @@
 ## 🌐 Conecta conmigo
 
 <div align="center">
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:jhoealvarez8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/jhoe-luis-jeanpaul">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
