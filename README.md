@@ -22,9 +22,13 @@
 ## 📈 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoesitooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Estadísticas de yoesitooo" />
+  <!-- Usando una instancia alternativa más estable de github-readme-stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yoesitooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Estadísticas de yoesitooo" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoesitooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Lenguajes Top" />
+  <!-- Racha de contribuciones (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoesitooo&theme=tokyonight&hide_border=true&background=0f172a" alt="Racha de contribuciones" />
+  <br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yoesitooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Lenguajes Top" />
 </div>
 
 <br/>
