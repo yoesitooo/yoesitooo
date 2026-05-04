@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h3>👨‍💻 Desarrollador de Software | Entusiasta de la Tecnología</h3>
-  <p>¡Bienvenido a mi espacio! Aquí comparto mis proyectos, código y aprendizaje continuo.</p>
+  <h3>👨‍💻 Desarrollador de Software | Estudiante de Ingeniería de Sistemas</h3>
+  <p>¡Bienvenido a mi espacio! Aquí comparto mis proyectos, código y aprendizaje continuo en el mundo de la tecnología.</p>
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,git,github,vscode" alt="Mis Habilidades" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,java,python,mysql,mongodb,git,github,vscode,postman,vite" alt="Mis Habilidades" />
   </a>
 </div>
 
