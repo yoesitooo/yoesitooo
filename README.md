@@ -15,7 +15,7 @@
 
 | Project | What it is | Proof | Stack |
 |---|---|---|---|
-| **[LexAI](https://github.com/yoesitooo/LexAI-AWS)** | Legal-tech SaaS: a daily worker monitors Colombia's court system, diffs new court actions, analyses them with an LLM and computes legal deadlines in business days | **792 passing tests** (incl. property-based), Docker Compose deploy with Caddy HTTPS | Next.js 16 · TypeScript · Prisma · PostgreSQL · node-cron · Docker |
+| **[LexAI](https://github.com/yoesitooo/LexAI-AWS)** | Legal-tech SaaS: a daily worker monitors Colombia's court system, diffs new court actions, analyses them with an LLM and computes legal deadlines in business days | **804 passing tests** (incl. property-based), Docker Compose deploy with Caddy HTTPS | Next.js 16 · TypeScript · Prisma · PostgreSQL · node-cron · Docker |
 | **[Horum](https://github.com/yoesitooo/Saas)**<br/>[live demo](https://horum-booking.vercel.app) | Multi-tenant white-label booking SaaS with an embeddable widget | FastAPI REST API, slot-availability algorithm, Supabase RLS | Next.js 14 · FastAPI · Supabase |
 | **[HorumLife](https://github.com/yoesitooo/HorumLife)**<br/>[live demo](https://horum-life.vercel.app) | Gamified life-OS PWA (finances, gym, study, habits) with an AI mentor | Google Auth, per-user Firestore security rules | React 19 · TypeScript · Firebase · Gemini |
 | **SDD Ecosystem** *(private — demo on request)* | Python orchestrator of 11 LLM agents that turns an idea into a software project, with persistent memory | Multi-provider model router, SQLite FTS5 memory, CLI/Telegram/voice interfaces | Python · asyncio · FastAPI · Groq · NVIDIA NIM · Claude |
