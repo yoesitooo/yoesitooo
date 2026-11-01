@@ -5,7 +5,7 @@
 <div align="center">
   <h3>👨‍💻 Junior Software Developer · Systems Engineering student @ Universidad Distrital (Bogotá)</h3>
   <p>I build full products end to end: TypeScript/Next.js and Python/FastAPI backends, background workers, LLM integrations — and I test them.<br/>
-  📍 Bogotá, Colombia (UTC-5) · 🌎 Open to remote roles · 🗣️ Spanish (native) / English (C2 · <a href="https://cert.efset.org/en/foLFTE">EF SET 88/100</a>)</p>
+  📍 Bogotá, Colombia (UTC-5) · 🌎 Open to remote roles · 🗣️ Spanish (native) / English (C1 · <a href="https://cert.efset.org/en/foLFTE">EF SET certificate</a>)</p>
   <sub>🇪🇸 Desarrollador de software junior · Backend, full-stack e IA aplicada · Disponible para trabajo remoto</sub>
 </div>
 
