@@ -16,17 +16,18 @@
 | Project | What it is | Proof | Stack |
 |---|---|---|---|
 | **[LexAI](https://github.com/yoesitooo/LexAI-AWS)**<br>[▶ live demo](https://lexai-horumlabs.vercel.app) | Legal-tech SaaS: a daily worker monitors Colombia's court system, diffs new court actions, analyses them with an LLM and computes legal deadlines in business days | Hackathon project built with a teammate · **846 passing tests** (incl. property-based), Docker Compose deploy with Caddy HTTPS | Next.js 16 · TypeScript · Prisma · PostgreSQL · node-cron · Docker |
+| **[Relevo](https://github.com/yoesitooo/Relevo)** | Webhook relay: verifies Standard Webhooks and GitHub signatures, deduplicates, and delivers with retries; Angular panel to inspect and redeliver | PostgreSQL as the queue (`FOR UPDATE SKIP LOCKED`) with a test of 4 concurrent workers and zero duplicate deliveries; 38 tests on real PostgreSQL, Playwright e2e, Postman run in CI, Docker Compose | Node.js · TypeScript · Fastify · PostgreSQL · Angular 22 · Docker |
 | **[Horum](https://github.com/yoesitooo/Saas)**<br/>[live demo](https://horum-booking.vercel.app) | Multi-tenant white-label booking SaaS with an embeddable widget | FastAPI REST API, slot-availability algorithm, Supabase RLS | Next.js 14 · FastAPI · Supabase |
 | **[HorumLife](https://github.com/yoesitooo/HorumLife)**<br/>[live demo](https://horum-life.vercel.app) | Gamified life-OS PWA (finances, gym, study, habits) with an AI mentor | Google Auth, per-user Firestore security rules | React 19 · TypeScript · Firebase · Gemini |
-| **SDD Ecosystem** *(private — demo on request)* | Python orchestrator of 11 LLM agents that turns an idea into a software project, with persistent memory | Multi-provider model router, SQLite FTS5 memory, CLI/Telegram/voice interfaces | Python · asyncio · FastAPI · Groq · NVIDIA NIM · Claude |
-| **[VexoTry](https://github.com/yoesitooo/VexoTry)**<br/>[live demo](https://vexo-try.vercel.app) | AI-agency landing page generated with SDD Ecosystem and hand-optimized | Validated forms, performance pass documented in commits | React · Vite · Tailwind · Framer Motion · Zod |
+| **[SpecForge](https://github.com/yoesitooo/SpecForge)** | Multi-agent tool: spec-driven generation (user stories with EARS criteria, use cases, design contracts, parallel tasks) and repair validated by re-running the tests | Parallel agents in dependency waves with one owner per file; repair on its own git branch with rollback; LLM router with fallback across free tiers and Claude/Google AI subscriptions; **102 tests** in CI | Python · asyncio · httpx · SQLite FTS5 · pytest |
+| **[VexoTry](https://github.com/yoesitooo/VexoTry)**<br/>[live demo](https://vexo-try.vercel.app) | AI-agency landing page generated with an early version of SpecForge and hand-optimized | Validated forms, performance pass documented in commits | React · Vite · Tailwind · Framer Motion · Zod |
 
 <br/>
 
 ## 🛠️ Tech I work with
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,js,react,nextjs,nodejs,fastapi,postgres,prisma,supabase,firebase,tailwind,vite,docker,aws,git,java&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,python,js,react,angular,nextjs,nodejs,fastapi,postgres,prisma,supabase,firebase,tailwind,vite,docker,aws,git,java&perline=9" alt="Tech stack" />
 </div>
 
 <br/>
